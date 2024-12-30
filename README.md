@@ -1,4 +1,4 @@
-<h1>Active-response SIEM</h1>
+<h1>Wazuh SIEM Active Response</h1>
 
 <h2>Description</h2>
 In this project, I implemented and configured the open-source SIEM solution Wazuh to collect and monitor logs within my homelab environment. I will demonstrate the setup of active-response, a Wazuh feature that dynamically blocks threat actors based on the associated rule_id of their malicious actions.
